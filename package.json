@@ -6,6 +6,10 @@
   "scripts": {
     "test": "mocha src/index.test.js -w"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdonohue/starwars-names.git"
+  },
   "keywords": [
     "random",
     "star",
